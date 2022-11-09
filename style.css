@@ -1,0 +1,42 @@
+html, body {
+  margin: 0px;
+  padding: 0px;
+  background-color:#070e4a;
+}
+canvas {
+  display: block;
+
+}
+h1{
+  font-family: wallpoet;
+  font-size: 25px;
+  color:white;
+}
+.title{
+  margin:12px;
+}
+.button1{
+  padding:10px;
+  border-radius:10px;
+  font-size: 20px;
+  background-color: aqua;
+  color:#072391;
+  font-family: wallpoet;
+
+}
+.textbox{
+  padding-left:10px;
+  padding-bottom:10px;
+  font-weight: bold;
+  padding-top:10px;
+  border-radius:40px;
+  font-size: 17px;
+  background-color:#e3f5fa;
+  color:#072391;
+  font-family: wallpoet;
+  
+}
+h3{
+  color:white;
+  font-family: wallpoet;
+}
